@@ -1,0 +1,4 @@
+- insert:
+    - id: runs-log
+      name: 'dsh-runs-log'
+      config: {}
